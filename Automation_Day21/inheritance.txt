@@ -1,0 +1,14 @@
+Inheritance:one property of object is acquiring to another property of object.
+
+Example :Father and Son
+
+Association:
+1.composition(Strong type of Association)
+Human->heart
+
+
+2.Aggregation(weak type of association)
+Person A-->>Person B
+
+IS A inheritance relationship
+HAS A inheritance relationship

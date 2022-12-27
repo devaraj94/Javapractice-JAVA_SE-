@@ -1,0 +1,19 @@
+Q)Without Oops,can you write a program?
+Ans:- Yes ,but it is a not Qualitative Program rather its a quantitative Program.
+
+---Simula67=First language to introduce the Object oriented Programming language.
+
+Java OOPS Concepts:-
+
+Class-its blueprint of object
+
+Object-its a instance of class.
+
+Encapsulation-Protecting our data
+
+Polymorphism-Diffrent behaviour at diffrent instances.
+
+Abstraction-protecting implementation.
+
+Inheritance-One property of object is acquiring to another proprty of Object.
+

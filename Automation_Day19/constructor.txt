@@ -1,0 +1,4 @@
+Constructor
+1.constructor is same same as class name.
+2.constructor does not have return type
+3.constructor can be called once upon object creation.

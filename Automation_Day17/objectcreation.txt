@@ -1,0 +1,24 @@
+how many types to create objects:-
+
+String myname="";
+
+1)create object using new keyword.
+
+(<class name>) obj=new (<class name>);
+obj.myname="Dev";
+
+2)object creation using new instance
+
+class cls=class.forname("<classname>");
+<classname> obj2=cls.getDeclaredconstructor().newInstance();
+
+3)object creation using constructor
+constructor <classname> constructorname=<classname>.class.getconstructor();
+<classname> objectname3=constructorname.newinstance();
+
+4)object creation using clone method
+
+A)Override the clone method
+B)<classname> objectname3=)(<classname>)objectname1.clone();
+
+5)by using Serilization and deserlization
